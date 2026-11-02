@@ -1,0 +1,42 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-display: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --color-nova-dark: #090A0F;
+  --color-nova-card: #12151E;
+  --color-nova-elevated: #181C28;
+  --color-nova-border: rgba(255, 255, 255, 0.08);
+  --color-nova-accent: #00E5FF;
+}
+
+:root {
+  color-scheme: dark;
+  font-family: var(--font-sans);
+}
+
+body {
+  background-color: #090A0F;
+  color: #F1F5F9;
+  overflow-x: hidden;
+}
+
+/* Custom scrollbar for sleek tech appearance */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #090A0F;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #232938;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #333C52;
+}

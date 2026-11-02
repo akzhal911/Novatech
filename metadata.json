@@ -1,0 +1,6 @@
+{
+  "name": "NOVATECH Flagship Electronics Store",
+  "description": "International luxury electronics & cutting-edge technology store with customer catalog, cart, orders, and protected owner administration panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,487 @@
+{
+  "products": [
+    {
+      "id": "nova-phone-ultra-x",
+      "name": "NovaPhone Ultra X Titanium",
+      "brand": "NOVATECH",
+      "category": "Smartphones",
+      "price": 1399,
+      "oldPrice": 1549,
+      "description": "Forged in Grade 5 aerospace titanium with an ultra-responsive 6.8-inch Dynamic AMOLED 165Hz edge-to-edge display. Powered by the NovaSilicon Quantum M3 chip with integrated neural coprocessor and quad-lens periscope optic array capable of 8K spatial video recording.",
+      "images": [
+        "/src/assets/images/hero_flagship_device_1793628017947.jpg",
+        "/src/assets/images/hero_flagship_device_1793628017947.jpg"
+      ],
+      "specs": {
+        "Processor": "NovaSilicon Quantum M3 (3nm Octa-core)",
+        "Display": "6.8\" Dynamic AMOLED 165Hz HDR10+ (3200x1440)",
+        "Main Camera": "200MP OIS Wide + 50MP Periscope 10x + 50MP Ultra-Wide",
+        "Battery": "5500 mAh with 120W HyperCharge",
+        "Chassis": "Aerospace Grade 5 Titanium & Ceramic Shield",
+        "Operating System": "NovaOS 4.0 (Zero-bloatware)"
+      },
+      "stock": 24,
+      "rating": 4.95,
+      "reviewsCount": 142,
+      "colors": [
+        "Space Titanium",
+        "Obsidian Black",
+        "Arctic Silver",
+        "Deep Cyan"
+      ],
+      "configurations": [
+        {
+          "name": "256GB / 12GB RAM",
+          "priceDiff": 0
+        },
+        {
+          "name": "512GB / 16GB RAM",
+          "priceDiff": 150
+        },
+        {
+          "name": "1TB / 24GB RAM Special Edition",
+          "priceDiff": 320
+        }
+      ],
+      "isPublished": true,
+      "featured": true,
+      "isNew": true,
+      "isSpecialOffer": true,
+      "createdAt": "2026-11-02T14:14:42.297Z"
+    },
+    {
+      "id": "nova-book-titan-pro",
+      "name": "NovaBook Titan Pro M4",
+      "brand": "NOVATECH",
+      "category": "Laptops",
+      "price": 2499,
+      "oldPrice": 2799,
+      "description": "The definitive mobile workstation engineered for creative professionals, developers, and computational scientists. Features a Liquid Retina XDR 16-inch display, active thermal vapor chamber, studio-grade DAC audio, and 24-hour battery endurance.",
+      "images": [
+        "/src/assets/images/laptop_titan_pro_1793627891214.jpg"
+      ],
+      "specs": {
+        "Processor": "NovaTitan M4 Max 16-Core CPU / 40-Core GPU",
+        "Display": "16.2\" Liquid Retina XDR Mini-LED 1600 nits 120Hz",
+        "Memory": "32GB Unified Ultra-Speed 8533MHz LPDDR5X",
+        "Storage": "1TB PCIe Gen5 NVMe (up to 14,000 MB/s)",
+        "Battery": "99.8 Wh (Up to 24 Hours Runtime)",
+        "Ports": "3x Thunderbolt 5, HDMI 2.1, SD Express, MagCharge"
+      },
+      "stock": 15,
+      "rating": 4.98,
+      "reviewsCount": 89,
+      "colors": [
+        "Space Gray",
+        "Starlight Silver"
+      ],
+      "configurations": [
+        {
+          "name": "32GB RAM / 1TB SSD",
+          "priceDiff": 0
+        },
+        {
+          "name": "64GB RAM / 2TB SSD",
+          "priceDiff": 450
+        },
+        {
+          "name": "128GB RAM / 4TB SSD Extreme",
+          "priceDiff": 950
+        }
+      ],
+      "isPublished": true,
+      "featured": true,
+      "isNew": true,
+      "isSpecialOffer": false,
+      "createdAt": "2026-11-02T14:14:42.297Z"
+    },
+    {
+      "id": "nova-wave-studio-anc",
+      "name": "NovaWave Studio Pro ANC",
+      "brand": "NovaAcoustics",
+      "category": "Headphones",
+      "price": 499,
+      "oldPrice": 599,
+      "description": "Audiophile reference headphones with 50mm custom beryllium drivers and lossless high-resolution wireless streaming. Features real-time adaptive hybrid active noise cancellation sampling ambient acoustics 50,000 times per second.",
+      "images": [
+        "/src/assets/images/headphones_studio_anc_1793627892404.jpg"
+      ],
+      "specs": {
+        "Acoustic Driver": "50mm Pure Beryllium Dynamic Drivers",
+        "Frequency Response": "5 Hz - 48,000 Hz Hi-Res Certified",
+        "Noise Cancellation": "Dual Hybrid ANC with 8 Beamforming Mics",
+        "Battery Life": "50 Hours (ANC On) / 70 Hours (ANC Off)",
+        "Connectivity": "Bluetooth 5.4 LE Audio, LDAC, aptX Lossless, 3.5mm Gold Jack",
+        "Materials": "Brushed Steel, Memory Foam, Lambskin Leather"
+      },
+      "stock": 42,
+      "rating": 4.91,
+      "reviewsCount": 215,
+      "colors": [
+        "Midnight Black",
+        "Brushed Titanium",
+        "Silver Frost"
+      ],
+      "configurations": [
+        {
+          "name": "Standard Audiophile Kit",
+          "priceDiff": 0
+        },
+        {
+          "name": "Studio Pro Bundle (+ Balanced 4.4mm Cable & Hard Case)",
+          "priceDiff": 70
+        }
+      ],
+      "isPublished": true,
+      "featured": true,
+      "isNew": false,
+      "isSpecialOffer": true,
+      "createdAt": "2026-11-02T14:14:42.297Z"
+    },
+    {
+      "id": "nova-chronos-titanium",
+      "name": "NovaChronos Titanium Chronograph",
+      "brand": "NOVATECH",
+      "category": "Smart Watches",
+      "price": 799,
+      "oldPrice": 899,
+      "description": "Luxury Swiss-inspired industrial craftsmanship infused with cutting-edge medical telemetry. Solid milled Grade 5 titanium housing with diamond-like carbon sapphire glass and dual-frequency L1/L5 GPS.",
+      "images": [
+        "/src/assets/images/smartwatch_chronos_titanium_1793627892590.jpg"
+      ],
+      "specs": {
+        "Display": "1.5\" Sapphire AMOLED Always-On (2000 nits peak)",
+        "Sensors": "ECG, Photoplethysmography, Blood Oxygen, Skin Temp, Depth Gauge",
+        "Water Resistance": "100m / 10 ATM Diving Certified (EN13319)",
+        "Battery": "Up to 14 Days Ultra-Mode / 5 Days Full Telemetry",
+        "Connectivity": "Cellular eSIM LTE, Dual GPS L1/L5, NFC Pay",
+        "Case": "46mm Brushed Grade 5 Titanium with Link Bracelet"
+      },
+      "stock": 28,
+      "rating": 4.94,
+      "reviewsCount": 167,
+      "colors": [
+        "Brushed Titanium",
+        "Matte Obsidian DLC"
+      ],
+      "configurations": [
+        {
+          "name": "Titanium Link Bracelet",
+          "priceDiff": 0
+        },
+        {
+          "name": "Dual Pack (Titanium Link + Fluoroelastomer Sport Band)",
+          "priceDiff": 60
+        }
+      ],
+      "isPublished": true,
+      "featured": true,
+      "isNew": true,
+      "isSpecialOffer": false,
+      "createdAt": "2026-11-02T14:14:42.297Z"
+    },
+    {
+      "id": "nova-vortex-gaming-rig",
+      "name": "NovaStation Vortex Cyber Rig",
+      "brand": "NovaGaming",
+      "category": "Gaming",
+      "price": 1099,
+      "oldPrice": 1249,
+      "description": "Next-gen flagship handheld gaming console with desktop-grade AMD Ryzen AI 9 architecture, 8.4-inch 144Hz OLED panel, Hall-effect magnetic joysticks, and vapor chamber cooling for sustained triple-A fidelity.",
+      "images": [
+        "/src/assets/images/gaming_rig_vortex_1793628039167.jpg"
+      ],
+      "specs": {
+        "APU": "AMD Ryzen AI 9 HX 370 (12 Cores, 24 Threads)",
+        "Graphics": "Radeon 890M RDNA 3.5 Architecture",
+        "Display": "8.4\" OLED 2.5K 144Hz VRR 100% DCI-P3",
+        "RAM": "32GB LPDDR5X-7500 dual-channel",
+        "Controls": "Magnetic Hall-Effect Analog Joysticks & Triggers",
+        "Battery": "80 Wh with 100W GaN Fast Charging"
+      },
+      "stock": 19,
+      "rating": 4.88,
+      "reviewsCount": 94,
+      "colors": [
+        "Cyber Stealth Black"
+      ],
+      "configurations": [
+        {
+          "name": "1TB NVMe SSD",
+          "priceDiff": 0
+        },
+        {
+          "name": "2TB NVMe SSD + Pro Dock",
+          "priceDiff": 180
+        }
+      ],
+      "isPublished": true,
+      "featured": false,
+      "isNew": true,
+      "isSpecialOffer": true,
+      "createdAt": "2026-11-02T14:14:42.297Z"
+    },
+    {
+      "id": "nova-pad-liquid-pro",
+      "name": "NovaPad Liquid Retina 13 Pro",
+      "brand": "NOVATECH",
+      "category": "Tablets",
+      "price": 1199,
+      "oldPrice": 1299,
+      "description": "Only 5.1mm ultra-thin architectural slate featuring Tandem OLED display technology with extraordinary contrast and color fidelity. Includes wireless magnetic magnetic charging for the NovaPen 3.",
+      "images": [
+        "/src/assets/images/tablet_liquid_pro_1793628039684.jpg"
+      ],
+      "specs": {
+        "Display": "13.0\" Tandem OLED Ultra Retina 120Hz ProMotion (1600 nits)",
+        "Processor": "NovaSilicon Quantum M3 Tablet Edition",
+        "Thickness": "5.1 mm Ultra-Slim Aerospace Aluminum",
+        "Audio": "4-Speaker Spatial Acoustic Array with Studio Mics",
+        "Stylus Support": "NovaPen 3 with Haptic Feedback (Magnetic Snap)",
+        "Cameras": "12MP Center Stage Ultra-Wide + LiDAR Scanner"
+      },
+      "stock": 22,
+      "rating": 4.93,
+      "reviewsCount": 112,
+      "colors": [
+        "Titanium Silver",
+        "Space Charcoal"
+      ],
+      "configurations": [
+        {
+          "name": "256GB Wi-Fi 7",
+          "priceDiff": 0
+        },
+        {
+          "name": "512GB Wi-Fi 7 + 5G Cellular",
+          "priceDiff": 220
+        },
+        {
+          "name": "1TB Wi-Fi 7 + 5G + Nano-Texture Glass",
+          "priceDiff": 450
+        }
+      ],
+      "isPublished": true,
+      "featured": false,
+      "isNew": false,
+      "isSpecialOffer": false,
+      "createdAt": "2026-11-02T14:14:42.297Z"
+    },
+    {
+      "id": "nova-cinema-8k",
+      "name": "NovaCinema CineMaster 8K Full-Frame",
+      "brand": "NovaOptics",
+      "category": "Cameras",
+      "price": 3899,
+      "oldPrice": 4200,
+      "description": "Cinema-grade 8K RAW video capture camera with 16+ stops of dynamic range, internal electronically controlled ND filters (2 to 7 stops), dual native ISO, and professional SDI & XLR audio interfaces.",
+      "images": [
+        "/src/assets/images/camera_cinema_8k_1793628041923.jpg"
+      ],
+      "specs": {
+        "Sensor": "Full-Frame 35mm BSI CMOS 45.7 Megapixels",
+        "Video Formats": "8K DCI 60p RAW 12-bit Internal, 4K 120p ProRes",
+        "Dynamic Range": "16+ Stops with Dual Native ISO 800 / 3200",
+        "ND Filters": "Built-in Electronic Variable ND 0.6 to 2.1",
+        "Media": "Dual CFexpress Type B Slots",
+        "Mount": "Universal Interchangeable Cine Mount (PL / E / L)"
+      },
+      "stock": 8,
+      "rating": 4.97,
+      "reviewsCount": 63,
+      "colors": [
+        "Matte Tactical Black"
+      ],
+      "configurations": [
+        {
+          "name": "Body Only",
+          "priceDiff": 0
+        },
+        {
+          "name": "Production Kit (+ 35mm T1.5 Cine Prime Lens)",
+          "priceDiff": 990
+        }
+      ],
+      "isPublished": true,
+      "featured": true,
+      "isNew": true,
+      "isSpecialOffer": false,
+      "createdAt": "2026-11-02T14:14:42.297Z"
+    },
+    {
+      "id": "nova-hyper-dock-gan",
+      "name": "NovaHyper Thunderbolt 4 14-in-1 Dock & GaN",
+      "brand": "NOVATECH",
+      "category": "Accessories",
+      "price": 289,
+      "oldPrice": 349,
+      "description": "Sculpted from a single block of space-gray anodized aluminum. Delivers 140W GaN power delivery to charge laptops and peripherals while outputting up to dual 8K 60Hz displays via Thunderbolt 4.",
+      "images": [
+        "/src/assets/images/accessories_gan_dock_1793628040358.jpg"
+      ],
+      "specs": {
+        "Ports": "3x Thunderbolt 4, 4x USB-A 10Gbps, 1x HDMI 2.1, 1x DP 2.1, 2.5G Ethernet, SD 4.0, Audio Combo",
+        "Power Delivery": "140W GaN III Fast Charge for Host Laptop",
+        "Display Support": "Up to 2x 8K @ 60Hz or 3x 4K @ 144Hz",
+        "Chassis": "CNC Milled Aluminum Heat Dissipation Body",
+        "Protection": "Active Over-voltage, Over-current & Thermal Throttling"
+      },
+      "stock": 65,
+      "rating": 4.89,
+      "reviewsCount": 184,
+      "colors": [
+        "Space Gray"
+      ],
+      "configurations": [
+        {
+          "name": "Standard Dock + 140W GaN Brick",
+          "priceDiff": 0
+        },
+        {
+          "name": "Pro Bundle (+ 2m Thunderbolt 4 Braided Cable)",
+          "priceDiff": 39
+        }
+      ],
+      "isPublished": true,
+      "featured": false,
+      "isNew": false,
+      "isSpecialOffer": true,
+      "createdAt": "2026-11-02T14:14:42.297Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "nova-phone-ultra-x",
+      "userName": "Alexander Vance (Zurich)",
+      "rating": 5,
+      "date": "2026-10-14",
+      "comment": "The titanium finish and camera array are unmatched. The low-light optical clarity beats anything else on the market. Zero lag in NovaOS.",
+      "verified": true
+    },
+    {
+      "id": "rev-2",
+      "productId": "nova-phone-ultra-x",
+      "userName": "Elena Rostova (Dubai)",
+      "rating": 5,
+      "date": "2026-10-22",
+      "comment": "Astonishing craftsmanship. Battery easily lasts 2 full days under heavy multitasking. Shipping to UAE took only 48 hours.",
+      "verified": true
+    },
+    {
+      "id": "rev-3",
+      "productId": "nova-book-titan-pro",
+      "userName": "Marcus Thorne (San Francisco)",
+      "rating": 5,
+      "date": "2026-10-18",
+      "comment": "Compiles massive machine learning models and 8K timelines silently without thermal throttling. The keyboard feel is perfection.",
+      "verified": true
+    },
+    {
+      "id": "rev-4",
+      "productId": "nova-wave-studio-anc",
+      "userName": "Julian K. (London)",
+      "rating": 5,
+      "date": "2026-10-27",
+      "comment": "Studio reference tuning with pure beryllium drivers. The soundstage separation and instrument timbre are breathtaking.",
+      "verified": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1001",
+      "orderNumber": "NV-892401",
+      "createdAt": "2026-11-01T14:22:00.000Z",
+      "customer": {
+        "fullName": "Dmitriy Romanov",
+        "email": "d.romanov@enterprise.eu",
+        "phone": "+49 170 555 8920",
+        "country": "Germany",
+        "city": "Berlin",
+        "address": "Friedrichstraße 142",
+        "postalCode": "10117"
+      },
+      "items": [
+        {
+          "productId": "nova-phone-ultra-x",
+          "name": "NovaPhone Ultra X Titanium",
+          "image": "/src/assets/images/hero_flagship_device_1793628017947.jpg",
+          "quantity": 1,
+          "pricePerUnit": 1549,
+          "selectedColor": "Space Titanium",
+          "selectedConfig": "512GB / 16GB RAM"
+        }
+      ],
+      "subtotal": 1549,
+      "shippingCost": 0,
+      "discount": 100,
+      "total": 1449,
+      "currency": "USD",
+      "status": "Processing",
+      "paymentMethod": "Credit Card (Demo Mode)",
+      "paymentStatus": "Verified"
+    },
+    {
+      "id": "ord-1002",
+      "orderNumber": "NV-892402",
+      "createdAt": "2026-11-02T02:15:00.000Z",
+      "customer": {
+        "fullName": "Arman Sadykov",
+        "email": "arman.sadykov@tech.kz",
+        "phone": "+7 777 450 1234",
+        "country": "Kazakhstan",
+        "city": "Almaty",
+        "address": "Dostyk Avenue 180, Apt 45",
+        "postalCode": "050051"
+      },
+      "items": [
+        {
+          "productId": "nova-book-titan-pro",
+          "name": "NovaBook Titan Pro M4",
+          "image": "/src/assets/images/laptop_titan_pro_1793627891214.jpg",
+          "quantity": 1,
+          "pricePerUnit": 2499,
+          "selectedColor": "Space Gray",
+          "selectedConfig": "32GB RAM / 1TB SSD"
+        },
+        {
+          "productId": "nova-wave-studio-anc",
+          "name": "NovaWave Studio Pro ANC",
+          "image": "/src/assets/images/headphones_studio_anc_1793627892404.jpg",
+          "quantity": 1,
+          "pricePerUnit": 499,
+          "selectedColor": "Midnight Black"
+        }
+      ],
+      "subtotal": 2998,
+      "shippingCost": 0,
+      "discount": 0,
+      "total": 2998,
+      "currency": "USD",
+      "status": "Pending",
+      "paymentMethod": "Apple Pay (Demo Mode)",
+      "paymentStatus": "Verified"
+    }
+  ],
+  "customers": [],
+  "activityLogs": [
+    {
+      "id": "log-1",
+      "type": "order",
+      "message": "New order NV-892402 received from Arman Sadykov ($2,998)",
+      "timestamp": "2026-11-02T02:15:00.000Z"
+    },
+    {
+      "id": "log-2",
+      "type": "order",
+      "message": "Order NV-892401 status updated to Processing",
+      "timestamp": "2026-11-01T15:30:00.000Z"
+    },
+    {
+      "id": "log-3",
+      "type": "product_added",
+      "message": "Flagship catalog synchronized with 8 premium categories",
+      "timestamp": "2026-11-01T10:00:00.000Z"
+    }
+  ]
+}
